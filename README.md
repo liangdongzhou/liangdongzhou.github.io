@@ -1,8 +1,12 @@
 # liangdongzhou.github.io
-Liangdong Zhou Ph.D.\n
-Instructor of Biomedical Engineering in Radiology\n
-Brain Health Imaging Institute (BHII)\n
-Department of Radiology\n
-Weill Medical College of Cornell University\n
+Liangdong Zhou Ph.D.
+
+Instructor of Biomedical Engineering in Radiology
+
+Brain Health Imaging Institute (BHII)
+
+Department of Radiology
+
+Weill Medical College of Cornell University
 
 
