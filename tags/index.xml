@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Thomas E. Love</title>
-    <link>https:://thomaselove.org/tags/</link>
-    <description>Recent content in Tags on Thomas E. Love</description>
+    <title>Tags on Liangdong Zhou</title>
+    <link>https:://liangdongzhou.github.io/tags/</link>
+    <description>Recent content in Tags on Liangdong Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <copyright>&amp;copy; 2023 Liangdong ZHou</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https:://thomaselove.org/tags/academic/</link>
+      <link>https:://liangdongzhou.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https:://thomaselove.org/tags/academic/</guid>
@@ -21,67 +21,15 @@
     </item>
     
     <item>
-      <title>Bhp</title>
-      <link>https:://thomaselove.org/tags/bhp/</link>
-      <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+      <title>AD</title>
+      <link>https:://liangdongzhou.github.io/tags/bhp/</link>
+      <pubDate>2023</pubDate>
       
-      <guid>https:://thomaselove.org/tags/bhp/</guid>
+      <guid>https:://liangdongzhou.github.io/tags/bhp/</guid>
       <description></description>
     </item>
     
-    <item>
-      <title>Electronic Health Records</title>
-      <link>https:://thomaselove.org/tags/electronic-health-records/</link>
-      <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https:://thomaselove.org/tags/electronic-health-records/</guid>
-      <description></description>
-    </item>
     
-    <item>
-      <title>Hugo</title>
-      <link>https:://thomaselove.org/tags/hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      
-      <guid>https:://thomaselove.org/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https:://thomaselove.org/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https:://thomaselove.org/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plot</title>
-      <link>https:://thomaselove.org/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https:://thomaselove.org/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>https:://thomaselove.org/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https:://thomaselove.org/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression</title>
-      <link>https:://thomaselove.org/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https:://thomaselove.org/tags/regression/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
